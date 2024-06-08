@@ -39,3 +39,17 @@ node server.js
 http://localhost:3000
 
 # 3.Use the application to encrypt and decrypt text.
+
+# Project Structure
+encrypt-decrypt-app/
+├── node_modules/
+├── public/
+│   └── styles.css
+├── views/
+│   └── index.ejs
+├── .env
+├── .gitignore
+├── encryption.js
+├── package.json
+└── server.js
+
