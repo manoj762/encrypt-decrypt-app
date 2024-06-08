@@ -15,12 +15,12 @@ A simple web application to encrypt and decrypt textual information that the use
 
 ## Installation
 
-1. Clone the repository:
+# 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/encrypt-decrypt-app.git
    cd encrypt-decrypt-app
 
-2.Install the dependencies:
+# 2.Install the dependencies:
 npm install express body-parser ejs dotenv
 
 
