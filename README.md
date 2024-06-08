@@ -21,7 +21,8 @@ A simple web application to encrypt and decrypt textual information that the use
    cd encrypt-decrypt-app
 
 2.Install the dependencies:
-npm install
+npm install express body-parser ejs dotenv
+
 
 3.Create a .env file in the root directory and add your 32-character encryption key:
 touch .env
